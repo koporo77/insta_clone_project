@@ -22,4 +22,14 @@
         android:name="com.example.insta_copy.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_upload"
+        android:name="com.example.insta_copy.ui.upload.UploadFragment"
+        android:label="@string/title_upload"
+        tools:layout="@layout/upload_fragment" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.insta_copy.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/profile_fragment" />
 </navigation>
