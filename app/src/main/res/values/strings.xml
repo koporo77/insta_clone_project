@@ -5,4 +5,6 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_profile">Profile</string>
+    <string name="action_favorite">red_heart</string>
+    <string name="action_settings">3dot_menu</string>
 </resources>
